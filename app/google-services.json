@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374451485422",
+    "project_id": "authntication-d1513",
+    "storage_bucket": "authntication-d1513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374451485422:android:899e778381c958dee6d1ff",
+        "android_client_info": {
+          "package_name": "eu.tutorials.googleauthntication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn4ia5JdgXnUjMxJGSD8BmBbNtJ2Wq8Do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
